@@ -51,7 +51,9 @@ The Microsoft Purview compliance portal brings together all of the tools and dat
 
 The default compliance portal home page contains several cards including:
 -   The **Compliance Manager** card
-    ![The compliance score card](https://learn.microsoft.com/en-us/training/wwl-sci/describe-compliance-management-capabilities-microsoft-365/media/3-compliance-scorecard-inline.png)](https://learn.microsoft.com/en-us/training/wwl-sci/describe-compliance-management-capabilities-microsoft-365/media/3-compliance-scorecard-expanded.png#lightbox)
+    
+    ![The compliance score card](https://learn.microsoft.com/en-us/training/wwl-sci/describe-compliance-management-capabilities-microsoft-365/media/3-compliance-scorecard-inline.png)
+    
 -   The **Solution catalogue** card, links to collections of integrated solutions to help you manage end-to-end compliance scenarios. Solutions areas included:
     -   **Information protection & governance**
     -   **Privacy**
