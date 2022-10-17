@@ -1,5 +1,5 @@
-# SC-900 Study Repo
-This repo has been made to help people revise and prepare for the SC-900 exam. The exam preperation and knowladge check list will most likely be the most useful thing for users who may wish to have a quick overview of what will likely come up in the exam.
+# SC-900 Study Repository
+This repsitory has been made to help you revise and prepare for the SC-900 exam. The exam preperation and knowladge check list will be the most useful thing for users who may wish to have a quick overview of what will likely come up in the exam.
 
 # Further preparation materials:
 I will be posting 4 SC-900 mock exams in the form of a Udemy course for anyone who wishes to support me. I hope you enjoy the content here as it should should cover everything but in a less tedious way than the MS learn portal and I hope it helps you pass the exam! 
