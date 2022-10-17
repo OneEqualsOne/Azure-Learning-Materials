@@ -171,7 +171,9 @@ A SIEM system is a tool that an organization uses to collect data from across th
 A SOAR system takes alerts from many sources, such as a SIEM system. The SOAR system then triggers action-driven automated workflows and processes to run security tasks that mitigate the issue. 
 
 ## Threat management in sentinel 
+
 ![Threat intel in sentinel](https://learn.microsoft.com/en-us/training/wwl-sci/describe-security-capabilities-of-azure-sentinel/media/3-four-aspects-azure-sentinel.png)
+
 This diagram shows the end-to-end functionality of Microsoft Sentinel. 
 -   **Collect** data at cloud scale across all users, devices, applications, and infrastructure, both on-premises and in multiple clouds. 
 -   **Detect** previously uncovered threats and minimize false positives using analytics and unparalleled threat intelligence. 
