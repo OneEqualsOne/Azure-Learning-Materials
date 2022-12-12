@@ -6,6 +6,10 @@ I have released 6 SC-900 mock exams for anyone who wishes to pass fast. I hope y
 
 https://www.udemy.com/course/sc-900-mock-exams-free-study-guide/?instructorPreviewMode=guest
 
+Currently i have a coupon applied so you can get it for free. All i ask is that you give me some feedback on the exams. But even if you dont, i hope this material helps you in some way :)
+
+https://www.udemy.com/course/sc-900-mock-exams-free-study-guide/?couponCode=FREESC
+
 # Overview of the SC-900
 This certification is used as an overview for security, compliance and identity. You don't need to know how to implement features for the exam, only what they are and what problems they solve. 
 
