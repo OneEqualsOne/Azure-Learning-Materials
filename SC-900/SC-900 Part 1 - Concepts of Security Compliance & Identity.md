@@ -16,7 +16,7 @@ Compute = Securing access to VM's and on prem ports/computers
 CIA triad also used here (Confidentiality, Integrity, Accessibility)
 
 ## Zero Trust model 
-Assumes everything is open and untrusted even behind firewall and network.  
+Assumes everything is open and untrusted even behind firewalls and networks.  
 ### Principals of Zero Trust
 - **Verify Explicitly** – always authenticate and authorize based on available data points, user id, location, device, service, workload, data classification and anomalies  
 - **Least Privilege** – always limit user access to just what they need and nothing more.  
